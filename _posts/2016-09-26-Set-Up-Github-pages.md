@@ -83,7 +83,7 @@ Why would one want to set up Jekyll locally? One benefit is that you can see qui
     ```
     jekyll serve
     ```
-    Preview your local Jekyll site in your web browser at http://localhost:4000 .
+    Preview your local Jekyll site in your web browser at [http://localhost:4000](http://localhost:4000) .
  * Push your local changes to your remote origin of Git repo (using Git bash). 
  * Check the updated pages at: http://username.github.io/ and http://username.github.io/blog (depending on which repo directory you were at when you were running "jekyll serve")
 
