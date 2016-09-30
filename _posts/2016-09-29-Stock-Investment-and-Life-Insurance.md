@@ -4,6 +4,7 @@ title: Stock Index Investment and Life Insurance Investment
 permalink: /_posts/
 ---
 Compare the following strategies: 
+
 1. Strategy 1: invest in S&P 500 Index ETF. 
 	* Dividend yield gain and capital gain; dividends are immediately reinvested
 	* Both dividend yield and capital gain are subject to income tax; dividend tax is deducted at distribution (assume once a year) and capital gain tax is deducted at sale of asset (end of holding period)
