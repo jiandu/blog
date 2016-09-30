@@ -7,6 +7,7 @@ permalink: /_posts/
 Since losing most of my blogs to the shutdown of Blogcn.com and Microsoft's discontinuation of MySpace service, I've lost trust to blog services and didn't blog for a long time. I still occasionally jotted down some of my personal thoughts on Apple's icloud.com, but was still yet to find a site for more "professional" thoughts that are intended to be public. 
 
 Then I came across Github pages and jekyll, a good static site generator combination. In a nutshell, this combination:
+
 1. always has backup by design (Git Repo), 
 2. takes minimum time to configure the article format (jekyll theme + mark down files), 
 3. is genetically suitable for a "techinical" writer like me to potentially include "code snippet", graphs and tables in the articles. 
