@@ -3,7 +3,7 @@ layout: post
 title: A Sample Python Code To Scrape Web Data
 permalink: /_posts/
 ---
-Below is a sample Python code that downloads the historical stock price data and scrapes company summary and statistics information for all S&P 500 companies. The data source is Yahoo! Finance. 
+Below is a sample Python code that downloads the historical stock price data and scrapes company summary and statistics information for all S&P 500 companies. The data source is Yahoo! Finance. The same technique can be used to obtain information from many other websites. The code was lastly tested on 2017-02-02. 
 
 ```python
 import pandas_datareader as pdr
